@@ -1,68 +1,78 @@
-# 🚀 Welcome to my Universe | @ArjunLevi
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052FF&height=240&section=header&text=Arjun%20Levi%20🚀&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Base Network Header" width="100%" />
+  
+  <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0052FF&height=200&section=header&text=ARJUN%20LEVI&fontSize=80&animation=fadeIn&fontAlignY=45" />
-</p>
+  <a href="https://github.com/ArjunLevi">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=0052FF&center=true&vCenter=true&width=600&lines=BASE+ECOSYSTEM+BUILDER;FULL-STACK+WEB3+DEV;UI+/+UX+ENTHUSIAST;FRAMER+MOTION+WIZARD" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web3%20%26%20Base-0052FF?style=for-the-badge&logo=base&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%2F%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Animation-Framer%20Motion-FF0055?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+  <p align="center">
+    <b>Architecting the next generation of On-Chain Meme Culture and Supply Chain solutions on Base.</b>
+  </p>
 
----
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ArjunLevi&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Github Trophies" />
+  </a>
+</div>
 
-### 💫 About Me
-I am a **Creative Developer** passionate about building high-performance decentralized applications and sleek user interfaces. Currently diving deep into the **Base** ecosystem and crafting pixel-perfect frontend experiences with **React** and **Tailwind CSS**.
+<br/>
 
-- 🔭 **Currently working on:** BaseMeme – The future of meme culture on Base.
-- ⚡ **Superpowers:** Converting complex UI designs into fluid animations using Framer Motion.
-- 🌐 **Goal:** Building the most seamless on-chain user experiences.
-- 💬 **Ask me about:** React, Lucide Icons, Web3 Integration, and CSS Transitions.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+### 🛠️ The Blueprint
+I am a Software Engineer dedicated to high-fidelity frontend experiences and robust smart contract development. I specialize in the **Base Network**, where I combine DeFi utility with viral UI.
 
-### 🛠 Tech Stack
+* 🏗️ **Current Projects:** * **[BaseMeme]** — A high-performance meme generation mini-app.
+    * **[AnchorBase]** — Revolutionizing Supply Chain & RWA on the Base network.
+* 🛡️ **Security:** Focused on smart contract best practices and secure dApp architectures.
+* 🎨 **UI/UX:** Expert in **Framer Motion**, **Three.js**, and **Tailwind CSS**.
+* ⚡ **Tech Stack:** React, Next.js, Solidity, Hardhat, and Go.
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Animation** | ![Framer](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white) |
-| **Web3** | ![Base](https://img.shields.io/badge/-Base-0052FF?logo=base&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![Ethers](https://img.shields.io/badge/-Ethers.js-3C3C3D?logo=ethereum&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Lucide](https://img.shields.io/badge/-Lucide-FF6B6B?logo=lucide&logoColor=white) |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+### 💻 Arsenal
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,solidity,ts,tailwind,framer,hardhat,go,git,github,vscode&perline=6" />
+  </a>
+</div>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArjunLevi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunLevi&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunLevi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunLevi&theme=tokyonight" width="100%" alt="Profile Details" />
+</div>
 
----
+<br/>
 
-### 📂 Featured Projects
-#### 🔵 [BaseMeme](https://github.com/ArjunLevi) 
-> A high-speed, animated landing page and dashboard for the next generation of meme tokens on Base. Built with React and custom Framer Motion loaders.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjunLevi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=0052FF&title_color=0052FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunLevi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0052FF" width="48%" />
+</div>
 
-#### 🚀 [Modern UI Kit](https://github.com/ArjunLevi)
-> A collection of reusable, highly-animated React components for rapid dapp prototyping.
+<br/>
 
----
+### 🐍 Contribution Flow
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArjunLevi/ArjunLevi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArjunLevi/ArjunLevi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArjunLevi/ArjunLevi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/ArjunLevi" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+### 📫 Establish Connection
+<div align="center">
+  <a href="https://x.com/YourTwitterHandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-<p align="center">
-  <i>"Code is poetry, but Web3 is the revolution."</i> <br>
-  <img src="https://raw.githubusercontent.com/ArjunLevi/ArjunLevi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ArjunLevi&color=0052FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
